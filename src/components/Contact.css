@@ -1,0 +1,23 @@
+.sayHlw {
+    border: 1.5px solid cyan;
+    color: cyan;
+    border-radius: 0.2rem;
+    background-color: #0a192f;
+    margin: auto;
+    padding: 16px 32px;
+}
+
+.button__like :hover {
+    background-color: rgba(0, 255, 255, 0.137);
+}
+
+a {
+    text-decoration: none;
+}
+
+.getintouch {
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
